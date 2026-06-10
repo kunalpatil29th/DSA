@@ -15,6 +15,10 @@ public class DataType_in {
        System.out.print(sum);
 
 
+        int divide = a / b;
+        System.out.print(divide);
+
+
 
 
        

@@ -18,6 +18,9 @@ public class DataType_in {
         int divide = a / b;
         System.out.print(divide);
 
+        int subraction = a - b;
+        System.out.print(subraction);
+
 
 
 
